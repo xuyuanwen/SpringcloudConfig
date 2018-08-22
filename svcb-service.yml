@@ -1,7 +1,7 @@
 server:
   port: 8070
   
-msg: are you ok?
+msg: I love you very much!
 
 eureka:
   instance:
