@@ -1,7 +1,7 @@
 server:
   port: 8080
 
-name: xuwb
+name: jansonxu
 
 eureka:
   instance:
